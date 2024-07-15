@@ -8,7 +8,7 @@ Play a game of tic tac toe against a primitive AI using the minimax algorithm
 ## Plan To Do:
 * Create an AI tic-tac-toe game with Neural Networks
 * Expand to SuperTic Tac Toe with NN with two variants:
-- [ ] won sub-boards are dead and replaced with the winners marker 
-- [ ] won sub-boards are still playble until all the squares are filled
+  - [ ] won sub-boards are dead and replaced with the winners marker 
+  - [ ] won sub-boards are still playble until all the squares are filled
 The two variants have different winning tactics 
   
